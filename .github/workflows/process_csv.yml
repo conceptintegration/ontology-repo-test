@@ -23,17 +23,17 @@ jobs:
           ISSUE_DATA=$(gh issue view $ISSUE_NUMBER --json number,title,body,comments)
           echo "Issue data:"
           echo "$ISSUE_DATA" | jq -r '.body'
-          ATTACHMENT_URL=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
-                   
-          if [[ -z "$CSV_URLS" ]]; then
+          CSV_URLS=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
+          echo "URLS:"
+          echo "$CSV_URL"
+          if [[ -z "$CSV_URL" ]]; then
             echo "No CSV files found. Exiting."
             exit 0
           fi
           
           mkdir -p csv_files
-          for url in $CSV_URLS; do
-            filename=$(basename "$url")
-            curl -H "Authorization: token $GITHUB_TOKEN" -L "$url" -o "csv_files/$filename"
+          filename=$(basename "$CSV_URL")
+          curl -H "Authorization: token $GITHUB_TOKEN" -L "$CSV_URL" -o "csv_files/$filename"
           done
 
       - name: Commit and push CSV files
