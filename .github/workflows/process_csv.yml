@@ -10,13 +10,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Download issue attachments
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           ISSUE_NUMBER=${{ github.event.issue.number }}
           REPO=${{ github.repository }}
-          CSV_URLS=$(jq -r '.issue.body | capture("(https://github.com/${REPO}/issues/${ISSUE_NUMBER}/attachments/[^"]+.csv)").string' <<< '${{ toJSON(github.event) }}')
+          CSV_URLS=$(echo '${{ toJSON(github.event) }}' | jq -r --arg repo "$REPO" --arg issue "$ISSUE_NUMBER" '.issue.body | scan("https://github.com/"+$repo+"/issues/"+$issue+"/attachments/[^\"]+\.csv") | .[]')
           
           if [[ -z "$CSV_URLS" ]]; then
             echo "No CSV files found. Exiting."
