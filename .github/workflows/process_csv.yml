@@ -22,8 +22,8 @@ jobs:
           echo "Fetching issue data..."
           ISSUE_DATA=$(gh issue view $ISSUE_NUMBER --json number,title,body,comments)
           echo "Issue data:"
-          echo "$ISSUE_DATA" | jq '.'
-          ATTACHMENT_URL=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP 'https://github.com/user-attachments/files/[^/]+/[^)]+\.csv' | head -n 1)
+          echo "$ISSUE_DATA" | jq -r '.body'
+          ATTACHMENT_URL=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
                    
           if [[ -z "$CSV_URLS" ]]; then
             echo "No CSV files found. Exiting."
