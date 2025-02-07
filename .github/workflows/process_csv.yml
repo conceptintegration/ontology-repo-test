@@ -24,7 +24,6 @@ jobs:
           echo "Issue data (BODY):"
           BODY=$("$ISSUE_DATA" | jq -r '.body')
           echo "$BODY"
-          echo "$BODY" | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv"
           CSV_URLS=$(echo "$BODY" | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
           echo "URLS:"
           echo "$CSV_URL"
