@@ -23,7 +23,7 @@ jobs:
           ISSUE_DATA=$(gh issue view $ISSUE_NUMBER --json number,title,body,comments)
           echo "Issue data:"
           echo "$ISSUE_DATA" | jq -r '.body'
-          CSV_URLS=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
+          CSV_URLS=$(echo "$ISSUE_DATA" | jq -r '.body' | echo | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
           echo "URLS:"
           echo "$CSV_URL"
           if [[ -z "$CSV_URL" ]]; then
