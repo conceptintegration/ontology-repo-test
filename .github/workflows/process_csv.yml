@@ -17,8 +17,14 @@ jobs:
         run: |
           ISSUE_NUMBER=${{ github.event.issue.number }}
           REPO=${{ github.repository }}
-          CSV_URLS=$(echo '${{ toJSON(github.event) }}' | jq -r --arg repo "$REPO" --arg issue "$ISSUE_NUMBER" '.issue.body | scan("https://github.com/"+$repo+"/issues/"+$issue+"/attachments/[^\"]+\.csv") | .[]')
-          
+          # (https://github.com/cli/cli/issues/9046#issuecomment-2381102664)
+          # Fetch issue data
+          echo "Fetching issue data..."
+          ISSUE_DATA=$(gh issue view $ISSUE_NUMBER --json number,title,body,comments)
+          echo "Issue data:"
+          echo "$ISSUE_DATA" | jq '.'
+          ATTACHMENT_URL=$(echo "$ISSUE_DATA" | jq -r '.body' | grep -oP 'https://github.com/user-attachments/files/[^/]+/[^)]+\.csv' | head -n 1)
+                   
           if [[ -z "$CSV_URLS" ]]; then
             echo "No CSV files found. Exiting."
             exit 0
