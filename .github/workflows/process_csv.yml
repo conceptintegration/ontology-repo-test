@@ -1,0 +1,38 @@
+name: Issue CSV Handler
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  process_csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Download issue attachments
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          REPO=${{ github.repository }}
+          CSV_URLS=$(jq -r '.issue.body | capture("(https://github.com/${REPO}/issues/${ISSUE_NUMBER}/attachments/[^"]+.csv)").string' <<< '${{ toJSON(github.event) }}')
+          
+          if [[ -z "$CSV_URLS" ]]; then
+            echo "No CSV files found. Exiting."
+            exit 0
+          fi
+          
+          mkdir -p csv_files
+          for url in $CSV_URLS; do
+            filename=$(basename "$url")
+            curl -H "Authorization: token $GITHUB_TOKEN" -L "$url" -o "csv_files/$filename"
+          done
+
+      - name: Commit and push CSV files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add csv_files/*.csv
+          git commit -m "Add CSV files from issue #${{ github.event.issue.number }}"
+          git push
