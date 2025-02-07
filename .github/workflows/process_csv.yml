@@ -22,7 +22,7 @@ jobs:
           echo "Fetching issue data..."
           ISSUE_DATA=$(gh issue view $ISSUE_NUMBER --json number,title,body,comments)
           echo "Issue data (BODY):"
-          BODY=$("$ISSUE_DATA" | jq -r '.body')
+          BODY=$(echo "$ISSUE_DATA" | jq -r '.body')
           echo "$BODY"
           CSV_URLS=$(echo "$BODY" | grep -oP "https://github.com/user-attachments/files/.+/.+\.csv" | head -n 1)
           echo "URLS:"
