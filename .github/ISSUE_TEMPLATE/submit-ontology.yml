@@ -58,16 +58,7 @@ body:
     id: upload
     attributes:
       label: Citation
-      description: Citation for your ontology as .bib file
-      placeholder: | 
-      @misc{elkins_ginsburg_2022,
-        author       = {Zachary Elkins and Tom Ginsburg},
-        title        = {Characteristics of National Constitutions, Version 
-4.0},
-        year         = {2022},
-        note         = {Comparative Constitutions Project},
-        howpublished = {\url{https://comparativeconstitutionsproject.org}}
-      }
+      description: Citation for your ontology as BibTex entry. (Please don't upload any files here.)
     validations:
       required: false
   - type: textarea
