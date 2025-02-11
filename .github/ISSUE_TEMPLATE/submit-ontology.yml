@@ -65,7 +65,7 @@ body:
     id: upload
     attributes:
       label: Ontology upload
-      description: Please upload your `ontology.csv` file here. See the required fields [here]().
+      description: Please upload your .csv file here. See the required fields [here](https://github.com/conceptintegration/ontology-repo-test?tab=readme-ov-file#submit-your-own-ontology).
       placeholder: Initial version
     validations:
       required: true
