@@ -35,7 +35,7 @@ body:
     id: ontology-description
     attributes:
       label: Ontology Description
-      description: A description of your ontology for public viewing. (Please don't upload any files here.)
+      description: A description of your ontology for public viewing. (Please don't upload any files.)
     validations:
       required: true
   - type: input
@@ -50,7 +50,7 @@ body:
     id: version-notes
     attributes:
       label: Version notes
-      description: What changes were made in this version? (Please don't upload any files here.)
+      description: What changes were made in this version? (Please don't upload any files.)
       placeholder: Initial version
     validations:
       required: false
@@ -58,7 +58,7 @@ body:
     id: citation
     attributes:
       label: Citation
-      description: Citation for your ontology as BibTex entry. (Please don't upload any files here.)
+      description: Citation for your ontology as BibTex entry. (Please don't upload any files.)
     validations:
       required: false
   - type: textarea
