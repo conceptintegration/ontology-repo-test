@@ -35,7 +35,7 @@ body:
     id: ontology-description
     attributes:
       label: Ontology Description
-      description: A description of your ontology for public viewing
+      description: A description of your ontology for public viewing. (Please don't upload any files here.)
     validations:
       required: true
   - type: input
@@ -50,15 +50,19 @@ body:
     id: version-notes
     attributes:
       label: Version notes
-      description: What changes were made in this version?
-      placeholder: Initital version
+      description: What changes were made in this version? (Please don't upload any files here.)
+      placeholder: Initial version
     validations:
       required: false
-  - type: checkboxes
-    id: terms
+  - type: textarea
+    id: upload
     attributes:
-      label: Attached file
-      description: Are you attaching an `ontology.csv` file with the [required fields](/)? To attach the file, simply drag-and-drop it to the form.
-      options:
-        - label: I am attaching the `ontology.csv` file.
-          required: true
+      label: Ontology upload
+      description: Please upload your `ontology.csv` file here. See the required fields [here]().
+      placeholder: Initial version
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        Your submission will be automatically processed by a bot and then it will be assigned to us for manual review. We'll be in touch. Thanks!
