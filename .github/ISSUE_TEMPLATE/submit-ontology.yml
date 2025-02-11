@@ -55,7 +55,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: upload
+    id: citation
     attributes:
       label: Citation
       description: Citation for your ontology as BibTex entry. (Please don't upload any files here.)
