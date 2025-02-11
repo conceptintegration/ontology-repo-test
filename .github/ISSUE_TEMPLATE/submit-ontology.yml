@@ -43,7 +43,7 @@ body:
     attributes:
       label: Version number
       description: The version number. Must be sequential integers.
-      placeholder: 1
+      placeholder: "1"
     validations:
       required: true
   - type: textarea
