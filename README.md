@@ -4,8 +4,33 @@ This repository hosts the ontologies available on the [Sartori]() website. Each 
 
 ## Submit your own ontology
 
-We accept new ontologies! To be included, you need to prepare a .csv file in which each row is a concept/topic. 
-See an [example .csv file]().
+We accept new ontologies! To be included, you need to prepare two .csv files: one with metadata and one with the concepts/topics.
+
+## Metadata CSV
+
+See an [example CSV file]().
+
+Required columns:
+
+- `organization`: The parent organization of this ontology.
+
+- `name`: The name of the ontology.
+
+- `label`: A label of the form `ORG-NAME`, e.g., `CCP-FACET` or `CCP-HIER` (max. 16 characters).
+
+- `description`: A description of the ontology.
+
+- `citation`: Citation for the ontology as a BibTex entry.
+
+- `version`: The version number. Must be sequential integers.
+
+Other accepted columns:
+
+- `version_notes`: 
+
+## Concepts/topics CSV
+
+See an [example CSV file]().
 
 Required columns:
 
@@ -19,7 +44,7 @@ Other accepted columns:
 
 - `example`: a segment that exemplifies the concept
 
-- `parent_key`: for hierarchical ontologies, the parent key of the concept
+- `parent_category`: for hierarchical ontologies, the parent category or categories of the concept. 
 
 - `notes`: any note relevant to the concept (128-character limit)
 
