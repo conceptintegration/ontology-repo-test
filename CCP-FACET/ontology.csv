@@ -1,0 +1,554 @@
+key,label,description,parent_category,
+abide,Constitutional adherence,"Requires public officials or individuals to obey, or abide by, the constitution","Rights and Duties/General Duties
+",
+access,Territory accession,Allows accession or incorporation of new territory outside the country into an existing country,"Federalism/Secession and Accession
+",
+acfree,Academic freedom,"Allows scholars to research, teach, and publish their research without interference from the state","Rights and Duties/Civil and Political Rights
+",
+achighed,Higher education,Guarantees individuals equal access to higher education,"Rights and Duties/Social Rights
+",
+age,Age,"Relates to a person's age, the length of time the person has lived, or status as a child, juvenile, minor, senior, or elder",Culture and Identity,
+amend,Constitution amendment,"Mechanisms to formally change the text of the constitution, including constitutional amendment, reform, or replacement","Amendment
+",
+amparo,Amparo,Allows individuals to request judicial review of government actions they believe have violated or infringed their rights,"Judiciary/Judicial Review
+Rights and Duties/Enforcement
+Rights and Duties/Legal Procedural Rights
+",
+anthem,Anthem,Establishes the official anthem or song,"Principles and Symbols/State Definition and Symbols
+",
+appeal,Appeal,Allows individuals to appeal a judicial decision in a higher or appellate court if they are not satisfied with the outcome in the court of first instance,"Rights and Duties/Legal Procedural Rights
+",
+arms,Bear arms,Allows individuals to possess firearms and other weapons,"Rights and Duties/Civil and Political Rights
+",
+artists,Art,Reference to art or artists,"Principles and Symbols/Basic Principles
+",
+assem,Freedom of assembly,Allows individuals to gather in groups or protest in public spaces,"Rights and Duties/Civil and Political Rights
+",
+assets,Asset disclosure,Requires government officials to disclose their income or the value of their assets,Principles and Symbols,
+assoc,Freedom of association,Allows individuals to form or join a group or association,"Rights and Duties/Civil and Political Rights
+",
+asylum,Stateless persons,"Requires protection for stateless persons, asylum seekers, or refugees","Rights and Duties/Equality, Gender, and Minority Rights
+",
+atgen,Attorney general,"Establishes an attorney general, public prosecutor, or prosecutor general to serve as the principal legal official, represent the government in legal proceedings, and give legal advice to the government","Executive/Structure of the Executive
+",
+attend,Legislator attendance,Requires legislators to attend legislative sessions or votes,"Legislature/Legislative Rules and Restrictions
+",
+auth,Source of constitutional authority,Establishes the agent with the authority to install the constitution or from which the state derives its ultimate authority ,"Principles and Symbols/Basic Principles
+",
+balbudgt,Balanced budget,Requires that the government pass a balanced budget in which incoming revenue meets or exceeds the value of the government's expenditures in a fiscal year,"Legislature/Special Legislation
+",
+bank,Bank,"Establishes a bank that formulates monetary policy, issues currency, regulates commercial banks, and provides financial and banking services","Regulation and Oversight/Independent Agencies and Commissions
+",
+binding,Binding effect of rights,Establishes whether or not private individuals are bound by rights,"Rights and Duties/General Duties
+",
+budget,Budget law,"Establishes a special legislative process for the budget, which is legislation that lays out the revenues and expenditures for some period of time, usually in years","Legislature/Special Legislation
+",
+busines,Business,Allows individuals to establish for-profit commercial endeavors,"Rights and Duties/Economic Rights
+",
+cabinet,Cabinet/ministers,Establishes the cabinet or council of ministers as a body of officials who act as the heads of agencies or ministries and advise the head of state or head of government,"Executive/Cabinet
+Executive/Structure of the Executive
+",
+camppubf,Campaign financing,Rules that political parties and candidates must follow in financing electoral campaigns,"Elections/Electoral Rules and Regulations
+", ban on receiving funds from certain sources
+capital,Capital,Establishes the capital city,"Principles and Symbols/State Definition and Symbols
+",
+cappun,Death penalty,Forbids use of the death penalty as a punishment,"Rights and Duties/Physical Integrity Rights
+",
+cc,Counter corruption commission,Establishes an independent commission to investigate corruption,"Regulation and Oversight/Independent Agencies and Commissions
+",
+census,Census,Provides for the enumeration of residents periodically,"Elections/Electoral Rules and Regulations
+",
+childpro,Children,"Affords children special benefits or protections, including children's access to education or healthcare and freedom from abuse","Rights and Duties/Civil and Political Rights
+",
+childwrk,Child employment,Prohibits or limits child labor to protect children from exploitation in the workplace,"Rights and Duties/Social Rights
+",
+citdep,Citizen deportation,Allows or prohibits deportation of citizens or residents,"Culture and Identity/Citizenship
+",
+citizen,Birthright citizenship,"Grants automatic citizenship at birth; may relate to the citizenship or residency of one or both parents, or to the location of an individual's birth","Culture and Identity/Citizenship
+",
+citren,Citizenship renunciation,Allows individuals to renounce their citizenship ,"Culture and Identity/Citizenship
+Rights and Duties/Civil and Political Rights
+",
+citrev,Citizenship revocation,"Allows or prohibits revocation of citizenship, whereby a person is stripped of his or her citizenship","Culture and Identity/Citizenship
+",
+civil,Civil service recruitment,"Requires that civil servants are recruited and promoted on the basis of merit through standardized exams or credentials; protects against patronage, nepotism, and corruption in the civil service","Principles and Symbols/Basic Principles
+",
+civilmil,Defense minister,"Establishes the qualifications that an individual must meet in order to serve as the defense minister, particularly being a civilian or a member of the military; specification that there be civilian control of the military","Executive/Military
+",
+civmar,Civil marriage,Recognizes marriage performed by administrative official,"Rights and Duties/Civil and Political Rights
+",
+colony,Colonies,"Defines the status of occupied territories including colonies, protectorates, or territories","Principles and Symbols/Basic Principles
+",
+color,Skin color,Relates to a person's physical characteristic of skin color,Culture and Identity,
+comchief,Commander in chief,Establishes the person who has ultimate control of the armed forces,"Executive/Executive Independence and Power
+Executive/Military
+",
+commit,Legislative committees,"Defines existence, formation, or procedures of legislative committees","Legislature/Structure of the Legislature
+",
+compvote,Compulsory voting,Makes voting mandatory for at least some electors in some elections,"Elections/Suffrage and Turnout
+",
+conright,Consumers,Protects consumers from harmful products and/or predatory or unethical business practices,"Rights and Duties/Social Rights
+",
+corppun,Corporal punishment,Forbids inflicting physical harm as a punishment,"Rights and Duties/Physical Integrity Rights
+",
+couns,Counsel,Allows arrested individuals to have a lawyer or legal counsel,"Rights and Duties/Legal Procedural Rights
+",
+creed,Creed or belief,"Relates to a person's creed, ideology, doctrine, belief, viewpoint, opinion, or personal conviction","Culture and Identity/Religion
+Rights and Duties/Equality, Gender, and Minority Rights
+",
+cruelty,Cruel treatment,Forbids inhumane treatment or treating individuals in any way that offends human dignity,"Rights and Duties/Physical Integrity Rights
+",
+cultrght,Culture,Allows individuals to practice their culture,"Rights and Duties/Equality, Gender, and Minority Rights
+",
+custlaw,Customary international law,"Reference to customary international law, the law of nations, or the generally accepted principles of international law","International Law/Explicit References to Int. Law
+",
+debtors,Debtors,Protects individuals who are unable to repay loans or other financial obligations,"Rights and Duties/Civil and Political Rights
+", establishes a bankruptcy law
+decree,Decree power,Allows an executive body to enact rules without following the usual channels for the passage of legislation,Executive/Executive Independence and Power,
+democ,Democracy,Governance controlled by the people,"Principles and Symbols/Basic Principles
+", a state governed by democracy
+depexec,Deputy executive,"Establishes a deputy head of state, deputy vice president, deputy head of government, or deputy prime minister to serve as a deputy executive","Executive/Structure of the Executive
+",
+devlpers,Personality development,Allows individuals to develop and express their own unique personality ,"Rights and Duties/Civil and Political Rights
+",
+dignity,Human dignity,Reference to human dignity or 'dignity of man' as a fundamental value,"Rights and Duties/Civil and Political Rights
+",
+disab,Disabilities,"Relates to a person's disability or a physical or mental condition that limits the person's movements, senses, or activities",Culture and Identity,
+district,Electoral districts,Characteristics of electoral districts or rules for establishing electoral districts,"Elections/Electoral Rules and Regulations
+",
+divhouse,Legislative division of labor,"Specifies the manner in which the work of the legislative process is divided between the two chambers of the legislature, including reserved legislative policy areas, legislative powers, or concurrent or sequential consideration of legislation","Legislature/Legislation
+",
+doubjep,Double jeopardy,Prohibits charging an individual with an offense for which they have already been acquitted,"Rights and Duties/Legal Procedural Rights
+",
+dueproc,Due process,Requires defendants in criminal trials to have their cases heard according to the process established by law,"Rights and Duties/Legal Procedural Rights
+",
+ec,Electoral court,"Creates the electoral court to hear challenges of election results and to certify various aspects of elections, including voter rolls and final election results",Elections/Electoral Oversight,
+ecom,Electoral commission,Establishes an independent commission to facilitate and regulate elections,"Elections/Electoral Oversight
+Regulation and Oversight/Elections
+Regulation and Oversight/Independent Agencies and Commissions
+",
+econplan,Economic plans,Process for national economic plans,"Legislature/Special Legislation
+",
+edcomp,Compulsory education,Requires children to attend school,"Rights and Duties/Social Rights
+",
+edfree,Free education,Requires the provision of education free of charge,"Rights and Duties/Social Rights
+",
+electsch,Election schedule,"Schedule for holding elections, described in terms of a particular day, an interval between elections, or in relation to the dismissal of the legislature or executive","Elections/Electoral Rules and Regulations
+",
+em,Emergencies,"Allows establishment of a state of emergency, state of siege, or martial law","Executive/Military
+",
+env,Environment,Requires protection or preservation of the environment,"Rights and Duties/Social Rights
+",
+equal,Equality before the law,Guarantees that all individuals are entitled to the same privileges and immunities,"Rights and Duties/Equality, Gender, and Minority Rights
+", requires all individuals to be equal before the law
+ethincl,Ethnic community integration,"Allows integration and partlcipation of minority ethnic communities; protects minority ethnic communities against forced assimilation; supports multinationalism, plurinationalism, or recognition of indigenous peoples","Culture and Identity/Race and Ethnicity
+",
+evidence,Evidence collection,"Regulates collection of evidence, searches and seizures, or involuntary confessions","Rights and Duties/Legal Procedural Rights
+",
+examwit,Evidence examination,Allows accused offenders and their legal counsel to cross-examine evidence or witnesses brought against them,"Rights and Duties/Legal Procedural Rights
+",
+excrim,Extradition,Requires or prohibits the extradition of suspected or convicted criminals to other countries,"Rights and Duties/Legal Procedural Rights
+",
+execindp,Executive independence,Guarantees the independence of the executive,"Executive/Executive Independence and Power
+",
+execnum,Executive structure,Establishes the structure of the executive as a unitary executive or dual executive,"Executive/Structure of the Executive
+",
+expost,Ex post facto laws,"Prohibits arrest, detention, prosecution, or punishment for acts that were not criminal at the time they were committed; prohibits imposition of penalties that were enacted after an act was committed","Rights and Duties/Legal Procedural Rights
+",
+express,Freedom of expression,Allows individuals to express their thoughts and feelings without prior censorship or other forms of governmental interference,"Rights and Duties/Civil and Political Rights
+",
+exprop,Expropriation,Protects individuals from confiscation of their property without proper compensation,"Rights and Duties/Economic Rights
+",
+exsess,Extraordinary legislative session,Establishes who has the authority to call an extraordinary session of the legislature,"Legislature/Legislative Rules and Restrictions
+",
+fairtri,Fair trial,"Provides for a fair, impartial trial; protects individuals from unfair trial procedures","Rights and Duties/Legal Procedural Rights
+",
+falseimp,False imprisonment,"Provides redress for individuals who have been confined or arrested without just cause, or have otherwise suffered from judicial error","Rights and Duties/Legal Procedural Rights
+",
+fedrev,Federal review of subnational legislation,Allows federal review of the legislation passed by subnational units in a federation,"Federalism/Lawmaking Power
+",
+fedsep,National vs subnational laws,Establishes which level of government has supremacy in cases where federal and subnational laws conflict,"Federalism/Lawmaking Power
+",
+figures,Political theorists and figures,"Reference to teachings of historical figures, theorists, or philosophers","Principles and Symbols/Basic Principles
+",
+finance,Finance law,Special legislative process for finance legislation on borrowing money,"Legislature/Special Legislation
+",
+finstat,Financial status,"Relates to a person's financial status, assets, economic resources, or property ownership",Culture and Identity,
+finsup1,Support for the elderly,Requires provision of financial or material support to elderly persons,"Rights and Duties/Social Rights
+",
+finsup2,Support for the unemployed,Requires provision of financial or material support to unemployed persons,"Rights and Duties/Social Rights
+",
+finsup3,Support for the disabled,Requires provision of financial or material support to persons with disabilities,"Rights and Duties/Social Rights
+",
+finsup4,Support for children,Requires provision of financial or material support to children,"Rights and Duties/Social Rights
+",
+flag,Flag,Describes the flag,"Principles and Symbols/State Definition and Symbols
+",
+fndfam,Found a family,Allows individuals to commit to one another and raise children together,"Rights and Duties/Civil and Political Rights
+",
+freecomp,Competitive marketplace,"Protects individuals from monopolies, price fixing, and other means of reducing competition in the marketplace","Rights and Duties/Economic Rights
+",
+freeelec,Electoral secret ballot,Requires electoral ballots to be secret such that the voter completes the ballot privately and the ballot cannot be connected to the voter,"Elections/Electoral Rules and Regulations
+",
+freemove,Freedom of movement,Allows individuals to travel and reside anywhere within the country,"Rights and Duties/Civil and Political Rights
+",
+freerel,Freedom of religion,"Allows individuals to hold religious beliefs, freely worship and practice those religious beliefs, change one's religion, or have no religion at all","Culture and Identity/Religion
+Rights and Duties/Civil and Political Rights
+",
+gender,Gender,"Relates to a person's gender, sex, or status as a woman, man, transgender woman, or transgender man",Culture and Identity,
+god,God or other deities,"Invocation of God, dieties, or the divine","Culture and Identity/Religion
+",
+govmed,State media,"May give the state control over all media outlets, allow the state to operate some media, or prohibit the state from operating media outlets","Regulation and Oversight/Media and Communications
+",
+habcorp,Unjustified restraint,"Protects individuals from unjustified restraint, arbitrary detention, and improper arrest; specifies habeas corpus requirement to bring the accused before a judge or court to consider the person's release unless lawful grounds are shown for the detention","Rights and Duties/Legal Procedural Rights
+",
+headforn,Foreign affairs representative,Representative for foreign affairs authoritized to speak abroad,"International Law/Foreign Policy
+",
+health,Health care,Provides health care to individuals,"Rights and Duties/Social Rights
+",
+hog,Head of government,Creates the office of head of government or prime minister to lead executive departments,"Executive/Executive Independence and Power
+Executive/Head of Government
+",
+hogdlim,Head of government removal limits,Protects the head of government or prime minister from removal after a failed attempt to remove the head of government,"Executive/Executive Independence and Power
+Executive/Head of Government
+",
+hoglegr,Head of government legislative role,Requires or prohibits the head of government or prime minister to serve as a member of the legislature,"Executive/Head of Government
+",
+hos,Head of state,"Creates the office of head of state, president, or monarch to serve as the highest representative of the state","Executive/Executive Independence and Power
+Executive/Head of State
+",
+hosstaff,Head of state advisory bodies,"Establishes advisory bodies to advise the head of state, president, or monarch","Executive/Head of State
+",
+housenum,Legislature structure,Establishes the structure of the legislature as a unicameral body with one chamber or a bicameral body with two chambers,"Legislature/Structure of the Legislature
+",
+hr,Human rights commission,Establishes an independent commission to investigate potential violations of human rights,"Regulation and Oversight/Independent Agencies and Commissions
+Rights and Duties/Enforcement
+",
+illadmin,Ultra-vires administrative actions,Protects individuals from illegal administrative actions or use of excess power by administrative agencies,"Judiciary/Administrative Courts
+Judiciary/Judicial Review
+",
+illegal,Illegal activities,Grants an exemption from laws that apply to the rest of the population,Rights and Duties/Citizen Duties,
+imm,Immunity,Provides a government official with immunity from prosecution,Principles and Symbols,
+inalrght,Inalienable,"Grants rights that are understood to be inalienable, unassailable, inviolable, or absolute","Rights and Duties/Enforcement
+",
+ind,Indigenous groups,Relates to indigenous groups whose members are descended from the earliest inhabitants of a location,Culture and Identity,
+infoacc,Information,"Allows individuals to access information collected or held by the government, particularly information about oneself or of general public interest","Rights and Duties/Civil and Political Rights
+",
+initiat,Legislative initiatives,Allows individuals to propose new legislative initiatives,"Elections/Referenda and Initiatives
+",
+interp,Constitutional interpretation,Establishes the bodies competent to interpret the constitution,"Judiciary/Judicial Autonomy and Power
+Judiciary/Judicial Review
+",
+intlaw,International law,"Reference to international law, including treaties, agreements, norms, or other commitments","International Law/Explicit References to Int. Law
+",
+intorgs,International organizations,"Reference to international organizations, whether generally or with regard to specific international organizations such as the United Nations","International Law/Explicit References to Int. Law
+",
+intprop,Intellectual property,"Allows individuals to protect and profit from their creative works, including copyrights, patents, and trademarks","Rights and Duties/Economic Rights
+",
+intrght,International human rights treaties,Reference to one or more specific international treaties or instruments concerning human rights,"International Law/Explicit References to Int. Law
+International Law/Treaties
+",
+invexe,Legislative oversight of the executive,Allows the legislature to oversee the executive to provide a check on the misuse or abuse of executive power and to ensure that executive agencies are enforcing the laws according to the intent of the legislature,"Executive/Executive Independence and Power
+Legislature/Legislative Rules and Restrictions
+",
+jc,Judicial council,"Establishes a judicial body to monitor, review, select, promote, or remove judges ","Judiciary/Structure of the Judiciary
+Regulation and Oversight/Independent Agencies and Commissions
+",
+jointrde,Trade union,Allows individuals to form and join trade unions or professional organizations,"Rights and Duties/Social Rights
+",
+judcrts1,Administrative courts,Establishes administrative courts that adjudicate disputes about the administrative exercise of power,"Judiciary/Administrative Courts
+Judiciary/Structure of the Judiciary
+",
+judcrts2,Constitutional court,Establishes a constitutional court that interprets the constitution and rules on whether legislation aligns with the principles of the constitution,"Judiciary/Constitutional Court
+Judiciary/Structure of the Judiciary
+",
+judcrts3,Amparo courts,Establishes courts of amparo that determine whether an individual's rights were infringed or violated,"Judiciary/Structure of the Judiciary
+Rights and Duties/Enforcement
+",
+judcrts4,Military courts,Establishes military courts that enforce military law and adjudicate charges against members of the military,"Executive/Military
+Judiciary/Structure of the Judiciary
+",
+judcrts5,Courts for judging public officials,Establishes courts that review the actions of public servants acting in their official capacity,"Judiciary/Structure of the Judiciary
+",
+judcrts6,Tax courts,Establishes tax courts that adjudicate disputes between individuals or businesses and the state with regard to taxation,"Judiciary/Structure of the Judiciary
+",
+judcrts7,Labor courts,Establishes labor courts that adjudicate disputes between individuals and trade unions or businesses,"Judiciary/Structure of the Judiciary
+",
+judcrts8,Religious courts,"Establishes religious courts that adjudicate matters arising in religious law, including ecclessiastical courts, Sharia courts, rabbinical courts, and Hindu courts; access may be limited on a confessional basis","Culture and Identity/Religion
+Judiciary/Structure of the Judiciary
+",
+judind,Judicial independence,Guarantees that judges are autonomous and the judiciary is independent,"Judiciary/Judicial Autonomy and Power
+",
+judprec,Judicial precedent,Requirees judges to consider or follow precedents set by rulings in higher courts,"Judiciary/Judicial Autonomy and Power
+",
+jury,Jury,Requires a jury or body of people legally selected and sworn to adjudicate guilt in criminal trials,"Rights and Duties/Legal Procedural Rights
+",
+juvenile,Juvenile privileges in criminal process,"Grants juveniles charged with crimes special protections in the criminal justice process, including special courts, different sentencing rules, or special detention centers","Rights and Duties/Legal Procedural Rights
+",
+lang,Official languages,"Establishes official languages or national languages that are given special status, including endoglossic and exoglossic languages ","Culture and Identity/Language
+",
+langprot,Language protection,"Allows individuals to use their native language, requires protection of different languages, or requires neutrality toward languages","Culture and Identity/Language
+",
+lead,Legislative leader,Official who presides over the legislature,Legislature,
+legapp,Legislation approval,Identifies which body has the power to approve or reject legislation after it has been passed by the legislature,"Legislature/Legislation
+Legislature/Legislative Independence and Power
+",
+legdiss,Legislature dismissal,Establishes the grounds and competent bodies to dismiss the entire legislature,"Legislature/Legislative Independence and Power
+Legislature/Removal and Replacement
+",
+legini,Legislation initiation,Specifies who has the power to propose new legislation,"Legislature/Legislation
+",
+legjoint,Joint legislative session,Provides for the two chambers of a bicameral legislature to meet jointly as a body made up of both chambers or a special joint session,"Legislature/Legislative Rules and Restrictions
+",
+legsupr,Legislation supermajority,Requires a supermajority of a specified size like two-thirds or three-fifths of the legislature to pass legislation,"Legislature/Legislation
+",
+leisure,Leisure,"Allows individuals to have leisure, including vacations, weekly holidays, or leaves with pay","Rights and Duties/Social Rights
+",
+levjud,Judiciary structure,Establishes the basic organization of the judicial branch,"Judiciary/Structure of the Judiciary
+",
+lh,First chamber,Relates to the first or lower chamber of the legislature,"Legislature/First Chamber
+",
+libel,Reputation,Allows individuals to defend themselves against libel or slander,"Rights and Duties/Civil and Political Rights
+",
+life,Life,Guarantees a right to life,"Rights and Duties/Physical Integrity Rights
+",
+marriage,Marriage,"Allows individuals to enter into a legally recognized, long-term commitment to one another","Rights and Duties/Civil and Political Rights
+",
+matequal,Matrimonial equality,Grants spouses the same rights in marriage and family law,"Rights and Duties/Equality, Gender, and Minority Rights
+",
+medcom,Media commission,Establishes an independent commission to regulate mass media,"Regulation and Oversight/Independent Agencies and Commissions
+Regulation and Oversight/Media and Communications
+",
+milcom,Military commander,Relates to active-duty commanders in the military,"Executive/Military
+",
+milrest,Military restrictions,Limitations on use of the military or actions of members of the military,"Executive/Military
+",
+milserv,Military service,Requires individuals to serve in the military for a specified period of time,"Executive/Military
+Rights and Duties/Citizen Duties
+",
+minage,Minimum age,Minimum age that an individual must have attained before assuming the office of a government official,Principles and Symbols,
+miranda,Self-incrimination,Allows an individual to refuse to answer questions during an interrogation or in court if the questions would tend to confirm the individual's guilt,"Rights and Duties/Legal Procedural Rights
+",
+motive,Motives for writing constitution,Frames the constitution in a particular context and history,"Principles and Symbols/Basic Principles
+",
+motto,Motto,Establishes the motto,"Principles and Symbols/State Definition and Symbols
+",
+mun,Municipal government,"Establishes the structures and competencies of municipal, local, county, or district government","Federalism/Structure of the State
+",
+nat,Nationality,Status as a national or subject of a particular country,"Culture and Identity/Citizenship
+Rights and Duties/Equality, Gender, and Minority Rights
+",
+natcit,Naturalization,"Grants citizenship to a foreigner through naturalization, whereby a person acquires a citizenship he or she did not have at birth","Culture and Identity/Citizenship
+",
+nomil,Conscientious objection,Grants an exemption from military service to individuals who object to war on the basis of moral principles,"Rights and Duties/Civil and Political Rights
+",
+notax,Tax exemption,Grants an exemption from taxation or required financial charges levied on other residents,Rights and Duties/Citizen Duties,
+oath,Constitutional oath,Requires public officials to take an oath to support the constitution,"Principles and Symbols/Basic Principles
+",
+occupate,Occupation,Allows individuals to choose their occupation and their place of employment without interference,"Rights and Duties/Economic Rights
+",
+offrel,Official religion,"Creates or prohibits an official religion, national religion, or state religion; creates or prohibits special treatment for certain religions","Culture and Identity/Religion
+",
+ombuds,Ombudsman,Establishes an independent body to investigate improper or illegal actions that infringe on individual rights,"Regulation and Oversight/Independent Agencies and Commissions
+Rights and Duties/Enforcement
+",
+op,Court opinions,"Determines procedures for, or treatment of, judicial opinions handed down by a court",Judiciary,
+opgroup,Wealth redistribution,"Guarantees additional resources, funds, services, access, or opportunities to specific groups based on gender, ethnicity, disability, or any other group identity; seeks to increase economic opportunities, reduce inequalities, and use redistribution to create substantive equality","Culture and Identity/Race and Ethnicity
+",
+opinion,"Freedom of opinion, thought, and conscience",Allows individuals to believe or think anything they find compelling,"Rights and Duties/Civil and Political Rights
+",
+ord,Ordinary court,Establishes the ordinary court system,"Judiciary/Ordinary Courts
+",
+orglaw,Organic law,Special legislative process for organic laws that create fundamental aspects of the constitutional order,"Legislature/Special Legislation
+",
+origin,Origin,"Country of origin, birthplace, native home, motherland, fatherland, or ethnicity","Culture and Identity
+Rights and Duties/Equality, Gender, and Minority Rights
+",
+override,Veto override,Allows the legislature to take additional steps to pass legislation that has been vetoed by the actor responsible for approving or rejecting legislation,"Legislature/Legislation
+Legislature/Legislative Independence and Power
+",
+overthrw,Overthrow,"Allows individuals to revolt, start a revolution, or overthrow the government","Rights and Duties/Civil and Political Rights
+",
+pardon,Pardon power,Grants an executive body power to overrule a criminal conviction,"Executive/Executive Independence and Power
+",
+parent,Parentage,"Relates to a person's parentage, bloodline, lineage, family, paternity, heredity, or birth",Culture and Identity,
+parents,Parents,"Grants parents certain rights or duties regarding their children; may include the duty to provide for one's legal children, or the right to make decisions about their education, upbringing, and other aspects of their lives","Rights and Duties/Civil and Political Rights
+",
+partprf,Preferred political parties,Grants special status to a particular political party or type of political party,"Elections/Political Parties
+",
+partprh,Prohibited political parties,Prohibits certain political parties or parties with particular ideologies or characteristics,"Elections/Political Parties
+",
+partreg,Political party restrictions,Establishes the rules of acceptable political party activity and organizational structure,"Elections/Political Parties
+",
+partrght,Political party formation,Allows individuals to form or join a political party or political organization in order to acquire and exercise political power,"Elections/Political Parties
+",
+partunco,Political party regulation,Describes which branch or body has the power to regulate political parties and determine the unconstitutionality of certain parties,"Elections/Political Parties
+Regulation and Oversight/Elections
+",
+petition,Petition,Allows individuals to bring petitions and complaints,"Rights and Duties/Civil and Political Rights
+",
+pow,Powers,Establishes the powers of a government official or institution,Principles and Symbols,
+preamble,Preamble,Introductory statement at the beginning of a constitution before the main text begins,"Special Sections
+",
+prerel,Pre-trial release,Requires arrested individuals to be released from custody until the time of their trial,"Rights and Duties/Legal Procedural Rights
+",
+presinoc,Presumption of innocence,"Requires that those adjudicating a criminal trial presume the accused is ""innocent until proven guilty,"" placing the burden of proof on the side of the prosecution in the trial","Rights and Duties/Legal Procedural Rights
+",
+press,Freedom of press,"Allows individuals, journalists, and publishers free expression through all forms of media","Rights and Duties/Civil and Political Rights
+",
+prevcond,History,Reference to particular triumphs or tragedies in history,"Principles and Symbols/Basic Principles
+",
+prevlead,Crimes of the previous regime,Provides transitional justice that punishes or pardons crimes committed by the previous regime,"Principles and Symbols/Basic Principles
+",
+prisonrg,Prison registry,Requires a registry of the names of people imprisoned,"Rights and Duties/Legal Procedural Rights
+",
+privacy,Privacy,"Protects individuals from intrusion into their property, papers, person, or communications without proper authorization","Rights and Duties/Civil and Political Rights
+",
+profleg,Outside professions,Defines outside professions that are incompatible with serving as a certain government official or bars that official from engaging in some or all other occupations during their term in office,"Legislature/Legislative Rules and Restrictions
+",
+proprght,Own property,Allows individuals to own real property and other objects,"Rights and Duties/Economic Rights
+",
+provwork,Employment,Requires provision of work to individuals,"Rights and Duties/Social Rights
+",
+prtyduty,Required political parties,Requires membership in a political party or in the sole political party of the state,"Elections/Political Parties
+Rights and Duties/Citizen Duties
+",
+pubmeet,Public sessions,Requires a government body to hold meetings in public sessions or specifies when the government body may hold meetings in private sessions,"Legislature/Legislative Rules and Restrictions
+",
+pubmin,Public deliberations,Requires that a written record of debates or deliberations in a government body be published,"Legislature/Legislative Rules and Restrictions
+",
+pubtri,Public trial,Requires individuals charged with an offense to have their trial held in public,"Rights and Duties/Legal Procedural Rights
+",
+quorum,Legislative quorum,Requires a certain percentage of legislators to be present to hold an official legislative session,"Legislature/Legislative Rules and Restrictions
+",
+quota,Legislative quota,Allocates a certain number of seats in the legislature to representatives of a particular group,Legislature,
+race,Race,Race or group defined by shared history or social identity,"Culture and Identity/Race and Ethnicity
+Rights and Duties/Equality, Gender, and Minority Rights
+",
+radio,Radio,Reference to the wireless transmission of audio programs,"Regulation and Oversight/Media and Communications
+",
+recvote,Legislative vote transparency,"Establishes the level of transparency in legislative voting, including making legislative votes a matter of public record or secret ","Legislature/Legislative Rules and Restrictions
+",
+referen,Referenda,"Allows individuals to vote for or against a specific piece of proposed legislation in a referendum, plebiscite, or other public vote","Elections/Referenda and Initiatives
+",
+region,Regional groups,"Reference to a broader regional group, geographic region, or multilateral organization","Principles and Symbols/Basic Principles
+",
+rellaw,Religious law,"Establishes the status of religious law; establishes religious law as separate or integrated with secular law, as the default law where secular law is silent, as superior to secular law, as a source or inspiration for secular law, or as the supreme source of law; establishes a repugnancy clause preventing conflict with religious law","Culture and Identity/Religion
+",
+reltax,Tax status of religious organizations,Grants religious organizations an exemption from taxation,"Culture and Identity/Religion
+",
+rem,Removal,"Establishes the grounds and competent bodies to dismiss, remove, or revoke the mandate of a government official",Principles and Symbols,
+remuner,Just remuneration,"Requires just remuneration, a fair salary, minimum wage, living wage, or equal payment for work; prohibits paying employees low wages or different rates for the same work","Rights and Duties/Social Rights
+",
+res,Eligibility,Qualifications that an individual must meet in order to serve as a government official,Principles and Symbols,
+resenex,Entry or exit restrictions,"Restrictions on entry into or exit out of the country, particularly with regard to the movements of foreign nationals","Culture and Identity/Citizenship
+",
+resrce,Natural resources ownership,"Describes ownership, possession, and use of natural resources, including energy, minerals, water, forests, flora, fauna, air, land, or other natural resources; includes nationalization, privatization, and use of natural resources as a public good or consumer good ","Principles and Symbols/Basic Principles
+",
+retir,Retirement age,Maximum age at which a public official must retire,Judiciary,
+rightres,Rights restrictions,Allows restrictions on the rights of some individuals or groups,"Rights and Duties/Equality, Gender, and Minority Rights
+",
+rulelaw,Rule of law,"Requires state actions based on the rule of law, legality, rechtsstasst, or justice; restricts the arbitrary exercise of power by requiring adherence to clear, established laws ","Rights and Duties/General Duties
+",
+safework,Safe work,Allows individuals to have safe working conditions free of preventable hazards,"Rights and Duties/Social Rights
+",
+salary,Salary,Specifies the body that determines compensation for a government official,Principles and Symbols,
+science,Science,"Reference to science, scientific research, or innovation","Principles and Symbols/Basic Principles
+",
+scifree,Scientific benefits,Allows individuals to enjoy the benefits of scientific progress,"Rights and Duties/Social Rights
+",
+seats,Legislative size,Total number of seats in the legislature,Legislature,
+seccess,Territory secession,Allows withdrawal or independence of groups or territory from a country,"Federalism/Secession and Accession
+",
+sel,Selection,"Establishes the process and bodies used to nominate and approve a government official through proportional representation, ranked-choice voting, majoritian voting, appointment, or other selection mechanisms",Principles and Symbols,
+selfdet,Self determination,Allows people to determine their own governance,"Rights and Duties/Equality, Gender, and Minority Rights
+",
+selfgov,Self governance,"Grants groups autonomy to govern themselves, particularly with regard to issues that affect their territory",Federalism,
+seprel,Separation of church and state,"Guarantees a secular state, guarantees a separation between the state and religious organizations, or forbids the state from extending recognition or assistance to religious organizations","Culture and Identity/Religion
+",
+session,Legislative session length,Number of days or months that the legislature meets within a year,"Legislature/Legislative Rules and Restrictions
+",
+sexorient,Sexual orientation,"Relates to a person's sexual orientation or status as gay, lesbian, bisexual, queer, or straight",Culture and Identity,
+shelter,Shelter,Allows individuals to have adequate shelter or housing,"Rights and Duties/Social Rights
+",
+slave,Slavery,"Forbids the practice of forced labor, servitude, and owning or otherwise exploiting human beings","Rights and Duties/Physical Integrity Rights
+",
+socclas,Social class,"Refers to social class, social position, or social stature; outlaws or provides for social classes","Rights and Duties/Equality, Gender, and Minority Rights
+",
+socsec,Social security,Guarantees the social security of the society,"Rights and Duties/Economic Rights
+",
+solid,Fraternity and solidarity,Reference to fraternity or solidarity,"Principles and Symbols/Basic Principles
+",
+speedtri,Speedy trial,Requires individuals charged with an offense to be brought to trial without undue delay and within a reasonable time following the arrest,"Rights and Duties/Legal Procedural Rights
+",
+spend,Spending law,Special legislative process for spending legislation on expenditures,"Legislature/Special Legislation
+",
+spleg,Legislative policy areas,Policy areas where a chamber of the legislature has special privileges or restrictions,Legislature,
+standliv,Standard of living,"Allows individuals to have a reasonable standard of living, including basic needs, decent living conditions, an adequate well-being, suitable existence, quality of life, dignified life, or life worthy of a human being","Rights and Duties/Social Rights
+",
+stdcom,Standing committees,Establishes permanent committees with oversight in given policy areas,"Legislature/Structure of the Legislature
+",
+strike,Strike,Allows individuals to cease work for a period of time to exert pressure on their employer,"Rights and Duties/Social Rights
+",
+sub,Subsidiary unit government,"Establishes the structures and competencies of provincial, regional, or state government","Federalism/Structure of the State
+",
+succ,Replacement,Establishes the process and bodies competent to replace a government official before the normally scheduled replacement process,Principles and Symbols,
+sup,Supreme court,Establishes the supreme court as the highest ordinary court,"Judiciary/Judicial Autonomy and Power
+Judiciary/Supreme Court
+",
+system,Government system,Establishes the structure and system of government,"Principles and Symbols/Basic Principles
+",
+tax,Tax law,Special legislative process for tax legislation on collecting revenue in the form of taxes or tariffs,"Legislature/Special Legislation
+",
+taxes,Taxes requirement,Requires individuals to pay taxes,"Rights and Duties/Citizen Duties
+",
+telecom,Telecommunications,"Reference to wired or wireless communication, including telephones, satellites, the internet, and other communication technologies","Regulation and Oversight/Media and Communications
+",
+term,Term length,Number of years that a government official serves in a term,Principles and Symbols,
+terml,Term limit,Maximum number of terms that a government official serves,Principles and Symbols,
+terror,Terrorism,Legal and security procedures regarding terrorism,"Executive/Military
+",
+torture,Torture,Forbids the use of torture or coerced confessions,"Rights and Duties/Physical Integrity Rights
+",
+tranprov,Transitional provisions,Temporary text in a constitution that guides the transition from the previous system to the new system,"Special Sections
+",
+transfer,Transfer property,"Allows individuals to dispose of property through sale, gift, wills, inheritance, or other means","Rights and Duties/Economic Rights
+",
+treat,Treaty ratification,Procedures to gain approval for accession to a treaty,"International Law/Treaties
+",
+treatcon,Treaty legal status,Establishes whether treaties are superior or inferior to domestic legal documents,"International Law/Treaties
+",
+tribe,Tribe or clan,"Tribe, clan, or political or social group descending from a common ancestor","Culture and Identity/Race and Ethnicity
+Rights and Duties/Equality, Gender, and Minority Rights
+",
+trilang,Trial in native language of accused,"Allows individuals charged with an offense to be informed of the reason for their arrest in a language they understand, to have their trial conducted in a language they understand, or to have an interpreter during detention or trial if they cannot understand the language","Culture and Identity/Language
+Rights and Duties/Legal Procedural Rights
+",
+truthcom,Truth and reconciliation commission,Establishes an independent commission to hear testimony about human rights violations and other crimes committed by the previous regime,"Regulation and Oversight/Independent Agencies and Commissions
+",
+tv,Television,Reference to the wireless transmission of audio-visual programs,"Regulation and Oversight/Media and Communications
+",
+uh,Second chamber,Relates to the second or upper chamber of the legislature,Legislature/Second Chamber,
+unamend,Unamendable,Parts of the constitutions that are so fundamental that they are unamendable,"Amendment
+",
+uncon,Constitutionality of legislation,Procedures for examining whether the content of a piece of legislation adheres to the constitution,"Judiciary/Judicial Autonomy and Power
+Judiciary/Judicial Review
+",
+vicright,Victims,Addresses needs of crime victims in the justice process,"Rights and Duties/Legal Procedural Rights
+",
+votemin,Voting age,Minimum age limit for voting in an election,"Elections/Suffrage and Turnout
+",
+voteres,Voting restrictions,"Qualifications or restrictions on voting in an election, for example on the basis of residency, age, or registration","Elections/Suffrage and Turnout
+",
+voteun,Universal suffrage,Allows all individuals to vote in elections to indicate their choice of candidate,"Elections/Suffrage and Turnout
+Rights and Duties/Civil and Political Rights
+",
+war,War,Allows establishing a declaration of war,"Executive/Military
+International Law/Foreign Policy
+",
+water,Water,"Guarantees safe, clean, or potable drinking water","Rights and Duties/Social Rights
+",
+wolaw,No punishment without law,"Prohibits arrest, detention, prosecution, or punishment for actions that are not defined in law as crimes; prohibits sentences that are greater than those defined in law","Rights and Duties/Legal Procedural Rights
+",
+work,Work requirement,Requires individuals to work,"Rights and Duties/Citizen Duties
+",
