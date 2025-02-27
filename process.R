@@ -1,0 +1,19 @@
+# Generate README.md files from metadata.csv files ----
+
+fps_metadata <- list.files(pattern = "metadata\\.csv$", recursive = T)
+
+for (fp in fps_metadata){
+  md <- read.csv(fp)
+
+  out_lines <- c(
+    sprintf("# %s - %s (%s)", md$organization, md$name, md$label),
+    "",
+    sprintf("- **Description**: %s", md$description),
+    "",
+    sprintf("- **Citation**: %s", md$citation),
+    "",
+    sprintf("- **Version (in the repo)**: %s", md$version)
+  )
+
+  writeLines(out_lines, sub("metadata\\.csv", "README.md", fp))
+}
