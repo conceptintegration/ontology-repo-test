@@ -12,7 +12,9 @@ for (fp in fps_metadata){
     "",
     sprintf("- **Citation**: %s", md$citation),
     "",
-    sprintf("- **Version (in the repo)**: %s", md$version)
+    sprintf("- **Version (in the repo)**: %s", md$version),
+    "---",
+    "(This `README.md` file is automatically generated from the `metadata.csv` file. Edit that one!)"
   )
 
   writeLines(out_lines, sub("metadata\\.csv", "README.md", fp))
