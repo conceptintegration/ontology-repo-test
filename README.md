@@ -8,7 +8,7 @@ We accept new ontologies! To be included, you need to prepare two .csv files: on
 
 ## Metadata CSV
 
-See an [example CSV file]().
+See an [example CSV file](/CCP-FACET/metadata.csv).
 
 Required columns:
 
@@ -26,11 +26,11 @@ Required columns:
 
 Other accepted columns:
 
-- `version_notes`: 
+- `version_notes`: Any changes on this version.
 
 ## Concepts/topics CSV
 
-See an [example CSV file]().
+See an [example CSV file](/CCP-FACET/ontology.csv).
 
 Required columns:
 
