@@ -1,0 +1,37 @@
+key,label,description
+gcman,Mandated grand coalition,There is a constitutional provision (or a provision in a peace accord in the case of transitional governments) requiring representation by all major political parties (or relevant political organizations) in the cabinet
+gcimp,Grand coalition implemented,All major political parties are indeed represented in the cabinet
+unity,National unity government,"Members of opposition parties or groups are represented in the cabinet, but a grand coalition is NOT mandated in the constitution or a peace treaty"
+gcseats1,Grand coalition by seats (Two largest parties in government),All of the following three things are true: A: the two largest parties are both in government AND B: the government is a majority government AND C: the legislature is competitive
+gcseats2,Grand Coalition by seats (Excess party in coalition),All of the following three things are true: A: a government coalition contains an excess party  i.e. a member without which it would still represent a majority of the seats in the legislature AND B: the government is a majority government AND C: the legislature is competitive
+partynoethnic,Ethnic party ban,"There is a law or constitutional amendment banning ethnically, religiously, or regionally based parties"
+mveto,Mutual veto,There is any provision for minority veto over a particular area of policy
+resman,Reserved executive positions (mandated),"It is mandated that particular executive positions be reserved for members of particular particular ethnic, linguistic, caste, or religious MINORITY groups"
+resimp,Reserved executive positions (implemented),"The particular executive positions reserved for members of particular ethnic, linguistic, or religious groups are held by members of that group"
+resseats,Reserved legislative seats (mandated),"A certain number of legislative seats (lower house) are reserved for members of particular ethnic, linguistic, caste, or religious MINORITY groups"
+resseatsimp,Reserved legislative seats (implemented),"The legislative seats reserved for members of particular ethnic, linguistic, or religious group are held by members of that group"
+relestablish,State establishment of religion,"The state has no established religion, the state has multiple established religions, [or] the state has one established religion"
+relrestrict,State restriction of (minority) religions,[Relates to whether] no (minority) religions are illegal and [whether] there are no significant restrictions on minority religions
+relconstp,Religion protected (practice),The freedom of worship or religious practice is guaranteed in the constitution (or peace agreement if no constitution is in place)
+relconstd,Religion protected (discrimination),There is a constitutional provision (or provision in a peace agreement if no constitution is in force) against discrimination on the basis of religion
+stconst,Regional constituencies in the upper house,The states/provinces are the constituencies of a majority of legislators in the upper (or only) house
+state,State/provincial governments locally elected,[Relates to whether] the legislature or executive is elected at the local level& [or] appointed by the central government
+muni,Municipal governments locally elected,[Relates to whether] the legislature or executive is elected at the local level& [or] appointed
+subtax,Sub-national tax authority,State/provincial governments can levy their own taxes
+subed,Sub-national education authority,State/provincial governments have sole control of education policy
+subpolice,Sub-national police authority,Sub-national governments (municipal or state/regional) have control of local police/paramilitary forces in their area
+fedunits,Change in federal units,"There is creation, division, merger, or elimination of any highest order subnational units during the calendar year in question"
+auton,Asymmetric federalism,There is one or more autonomous regions
+milleg,Military legislator ban,There is a constitutional provision (or provision in the peace agreement in the case of transitional governments) against active members of the armed forces holding seats in the legislature
+miman,Inclusive military,"It is mandated that all major groups (e.g. ethnic, religious, or linguistic groups) be represented in the military or its officer corps, or that the military or its officer corps be representative of different regions"
+mfound,Foundational military,The military is assigned by the constitution to preserve the constitution from infringement by other political actors
+milvote,Constitutional provision against military voting,There is a constitutional provision (or provision in a peace agreement if no constitution exists) denying active-duty members of the military the right to vote
+milparty,Constitutional provision against members of the military belonging to political parties,There is a constitutional provision (or provision in a peace agreement if no constitution exists) banning members of the military from belonging to political parties
+milparty2,Mandatory party membership,There is a constitutional provision (or provision in the peace agreement in the case of transitional governments) requiring that military officers belong to a particular party (i.e. the ruling party)
+jtenure,Judicial tenure,"[Relates to whether] terms are 6 years of less,& longer than 6 years but less than lifelong, lifelong or until a mandated retirement age"
+jcause,Judge removal without cause (Supreme Court),Judges can be removed from office without cause (e.g. serve at the pleasure of the chief executive)
+japptbr,Judicial appointments,"The power to appoint judges to the highest court is divided between branches of government (e.g. if all justices are nominated by the executive and confirmed by the legislative, or if a certain number of justices are appointed by each branch; or if the exec appoints from a list provided by the legislature or other body),... the power to appoint judges to the highest court is held by the executive branch only,... the power to appoint judges is held by the legislative branch only,... [or] the power to apopint judges is not shared between branches and judges are appointed neither b the legislative nor the executive branch"
+japptbr_binary,Judicial appointments,"The power to appoint judges to the highest court is divided between branches of govt (e.g. if all justices are nominated by the executive and confirmed by the legislative, or if a certain number of justices are appointed by each branch; or if the exec appoints from a list provided by the legislature or other body); or if judicial appointments are made by lower court judges or a special judicial commission (i.e. if japptBr is coded a 1 or a 4)... [or] the power to appoint judges rests with a single branch of government"
+jconst,Judicial constitution,The role of the supreme court or judiciary is specified in the constitution
+jrevman,Judicial review,The judicial branch has the power to declare the actions of the legislature AND executive unconstitutional
+violation,Violation of mandated powersharing,"Any of the following institutions are mandated and not implemented: reserved executive positions, reserved legislative search (for minorities or interest groups) [or] grand coalitions"
